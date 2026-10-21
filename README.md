@@ -13,12 +13,8 @@ Server runs on http://localhost:3000
 ### Get all users
 GET /api/users
 
-![Get all users](screenshots/get-users.png)
+![Get all users](screenshots/git-user.png)
 
-### Add a user
-POST /api/users
-
-![Add user](screenshots/post-user.png)
 
 ### Validation error
 ![Validation error](screenshots/post-validation-error.png)
