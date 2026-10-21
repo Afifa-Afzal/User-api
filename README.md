@@ -13,8 +13,5 @@ Server runs on http://localhost:3000
 ### Get all users
 GET /api/users
 
-![Get all users](screenshots/git-user.png)
+![Get all users](git-user.png)
 
-
-### Validation error
-![Validation error](screenshots/post-validation-error.png)
