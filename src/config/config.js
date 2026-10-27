@@ -1,0 +1,4 @@
+module.exports = {
+  JWT_SECRET: "mysecretkey123",
+  JWT_EXPIRES_IN: "1h",
+};
